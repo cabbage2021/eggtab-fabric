@@ -1,0 +1,18 @@
+{
+  "itemGroup.eggtab.arrow_group": "箭矢",
+  "itemGroup.eggtab.potion_group": "药水",
+  "itemGroup.eggtab.egg_group": "刷怪蛋",
+  "itemGroup.eggtab.creative_group": "创造模式物品",
+  "itemGroup.eggtab.music_group": "音乐唱片",
+  "itemGroup.eggtab.book_group": "附魔书",
+
+  "text.autoconfig.eggtab.title": "EggTab配置",
+  "text.autoconfig.eggtab.option.arrowsGroup": "让箭矢在单独的选项卡中",
+  "text.autoconfig.eggtab.option.potionsGroup": "让药水在单独的选项卡中",
+  "text.autoconfig.eggtab.option.eggsGroup": "让刷怪蛋在单独的选项卡中",
+  "text.autoconfig.eggtab.option.creativeGroup": "让创造模式物品在单独的选项卡中",
+  "text.autoconfig.eggtab.option.musicGroup": "让音乐唱片在单独的选项卡中",
+  "text.autoconfig.eggtab.option.booksGroup": "让附魔书在单独的选项卡中",
+  "text.autoconfig.eggtab.option.foodGroup": "让模组中的食物在原版选项卡中",
+  "text.autoconfig.eggtab.option.removeEmptyGroups": "移动后删除空选项卡"
+}
